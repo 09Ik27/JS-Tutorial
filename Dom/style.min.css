@@ -1,0 +1,1 @@
+.heading{text-align:center;color:#00b68c}#fruits{display:grid;grid-template-columns:repeat(2, 1fr);gap:2rem;width:-moz-fit-content;width:fit-content;margin:0 auto;padding:2rem}#fruits li{cursor:pointer;font-size:2rem;font-weight:500;list-style:none;text-transform:capitalize}.btn{border:none;color:#db1c35;font-size:2rem;cursor:pointer;transition:all .2s linear}
